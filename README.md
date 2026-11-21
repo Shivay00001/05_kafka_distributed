@@ -1,5 +1,7 @@
 # 05_kafka_distributed
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 > Distributed event-driven system built on Kafka for asynchronous communication, domain events, retry workflows, and resilient processing.
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
